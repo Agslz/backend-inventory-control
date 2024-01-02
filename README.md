@@ -25,7 +25,7 @@ La aplicación también ha sido deployada con éxito en Google Cloud Platform, l
 ![Sin título](https://github.com/Agslz/inventory-control-api-rest/assets/83142033/d8a8921f-2f80-48b8-9eb2-f02d1caa01fd)
 
 
-# [Tambien puedes revisar la parte del Front del proyecto]([http://www.limni.net](https://github.com/Agslz/angular-front-inventory)https://github.com/Agslz/angular-front-inventory)
+# [Tambien puedes revisar la parte del Front del proyecto](https://github.com/Agslz/angular-front-inventory)
 
 
 
