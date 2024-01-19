@@ -1,4 +1,6 @@
- # Inventory Control
+# Inventory Control
+
+Puedes revisar la parte del FrontEnd [aquí](https://github.com/Agslz/angular-front-inventory)
 
 ## Descripción del Proyecto
 
@@ -7,7 +9,8 @@ Este proyecto es una aplicación basada en Spring Boot 3.1 que implementa un CRU
 La autenticación en el sistema se realiza mediante Keycloak, el cual se encuentra montado en contenedores Docker. Esta implementación proporciona una capa de seguridad robusta para controlar el acceso a la aplicación.
 
 La aplicación también ha sido deployada con éxito en Google Cloud Platform, lo que garantiza su disponibilidad y escalabilidad en la nube.
-## Tecnologías Utilizadas
+  
+## Tecnologías Backend utilizadas
 
 - Spring Boot 3.1
 - Java 17
@@ -16,6 +19,14 @@ La aplicación también ha sido deployada con éxito en Google Cloud Platform, l
 - Docker
 - JUnit
 - Google Cloud Platform
+
+## Tecnologías Frontend utilizadas
+
+- Angular (16.0.1)
+- Angular Material
+- Chart.js
+- GitFlow
+- Keycloak
 
 ## Imagenes del Proyecto
 
