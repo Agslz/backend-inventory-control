@@ -1,6 +1,6 @@
 # Inventory Control
 
-### Puedes revisar la parte del FrontEnd [aquí](https://github.com/Agslz/angular-front-inventory)
+### Puedes revisar la parte del FrontEnd [aquí](https://github.com/Agslz/frontend-item-control)
 
 ## Descripción del Proyecto
 
