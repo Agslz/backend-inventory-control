@@ -1,6 +1,6 @@
-# Inventory Control
+# Inventory Control - Backend
 
-### Puedes revisar la parte del FrontEnd [aquí](https://github.com/Agslz/frontend-item-control)
+### Puedes revisar la parte del FrontEnd [aquí](https://github.com/Agslz/frontend-inventory-control)
 
 ## Descripción del Proyecto
 
