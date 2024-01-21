@@ -1,6 +1,6 @@
 # Inventory Control
 
-Puedes revisar la parte del FrontEnd [aquí](https://github.com/Agslz/angular-front-inventory)
+### Puedes revisar la parte del FrontEnd [aquí](https://github.com/Agslz/angular-front-inventory)
 
 ## Descripción del Proyecto
 
@@ -34,9 +34,5 @@ La aplicación también ha sido deployada con éxito en Google Cloud Platform, l
 
 
 ![Sin título](https://github.com/Agslz/inventory-control-api-rest/assets/83142033/d8a8921f-2f80-48b8-9eb2-f02d1caa01fd)
-
-
-# [Aqui se encuentra el Front del proyecto](https://github.com/Agslz/angular-front-inventory)
-
 
 
